@@ -1,0 +1,27 @@
+08/08/2018 11:33:46 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/08/2018 11:33:55 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/08/2018 11:39:49 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/08/2018 11:39:59 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/08/2018 11:40:02 Logged in Sucessfully  Centrica Logo found on screen
+08/08/2018 11:50:20 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/08/2018 11:50:29 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/08/2018 11:50:32 Logged in Sucessfully  Centrica Logo found on screen
+08/08/2018 11:50:40Clicked on Report NAME
+08/08/2018 11:50:53Clicked on Report RUN
+08/08/2018 11:51:04Previous file found in folder
+08/08/2018 11:51:15Click Download
+08/08/2018 11:51:22Clicked Save Button
+08/08/2018 11:51:22Clicked Save As Menu
+08/08/2018 11:55:40 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/08/2018 11:55:49 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/08/2018 11:55:53 Logged in Sucessfully  Centrica Logo found on screen
+08/08/2018 11:56:01Clicked on Report NAME
+08/08/2018 11:56:17Clicked on Report RUN
+08/08/2018 11:56:28Previous file found in folder
+08/08/2018 11:56:39Click Download
+08/08/2018 11:56:45Clicked Save Button
+08/08/2018 11:56:46Clicked Save As Menu
+08/08/2018 11:56:50: FILE has been saved
+08/08/2018 11:56:51  :Dialog Box Closed
+08/08/2018 11:56:53: Name of file isD:\Users\harssinh\Documents\UiPath\Centrica_SNOW_PROD\Download\incident_file.xlsx
+08/08/2018 11:56:59 : Session LOGOUT 

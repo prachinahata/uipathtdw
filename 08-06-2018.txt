@@ -1,0 +1,48 @@
+08/06/2018 15:45:45 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/06/2018 15:45:55 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/06/2018 15:46:02 Logged in Sucessfully  Centrica Logo found on screen
+08/06/2018 15:46:11Clicked on Report NAME
+08/06/2018 15:49:43 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/06/2018 15:49:52 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/06/2018 15:49:58 Logged in Sucessfully  Centrica Logo found on screen
+08/06/2018 15:50:07Clicked on Report NAME
+08/06/2018 15:50:16Clicked on Report RUN
+08/06/2018 15:50:27Folder is Empty
+08/06/2018 15:50:39Click Download
+08/06/2018 15:50:45Clicked Save Button
+08/06/2018 15:50:45Clicked Save As Menu
+08/06/2018 15:56:42 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/06/2018 15:56:51 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/06/2018 15:56:52 Logged in Sucessfully  Centrica Logo found on screen
+08/06/2018 15:56:58Clicked on Report NAME
+08/06/2018 15:57:08Clicked on Report RUN
+08/06/2018 15:57:19Folder is Empty
+08/06/2018 15:57:30Click Download
+08/06/2018 15:57:36Clicked Save Button
+08/06/2018 15:57:37Clicked Save As Menu
+08/06/2018 15:57:40: FILE has been saved
+08/06/2018 15:57:41  :Dialog Box Closed
+08/06/2018 16:01:28 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/06/2018 16:01:38 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/06/2018 16:01:41 Logged in Sucessfully  Centrica Logo found on screen
+08/06/2018 16:01:46Clicked on Report NAME
+08/06/2018 16:01:58Clicked on Report RUN
+08/06/2018 16:02:09Previous file found in folder
+08/06/2018 16:02:22Click Download
+08/06/2018 16:02:28Clicked Save Button
+08/06/2018 16:02:28Clicked Save As Menu
+08/06/2018 16:02:31: FILE has been saved
+08/06/2018 16:02:32  :Dialog Box Closed
+08/06/2018 16:07:23 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/06/2018 16:07:32 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/06/2018 16:07:37 Logged in Sucessfully  Centrica Logo found on screen
+08/06/2018 16:07:42Clicked on Report NAME
+08/06/2018 16:07:55Clicked on Report RUN
+08/06/2018 16:08:06Previous file found in folder
+08/06/2018 16:08:18Click Download
+08/06/2018 16:08:24Clicked Save Button
+08/06/2018 16:08:25Clicked Save As Menu
+08/06/2018 16:08:28: FILE has been saved
+08/06/2018 16:08:28  :Dialog Box Closed
+08/06/2018 16:08:31: Name of file isD:\Users\harssinh\Documents\UiPath\Centrica_SNOW_PrePROD\Download\incident_file.xlsx
+08/06/2018 16:08:34 : Session LOGOUT 

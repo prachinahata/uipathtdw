@@ -1,0 +1,191 @@
+07/31/2018 14:00:23 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 14:00:33 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 14:00:40 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 14:00:46Clicked on Report NAME
+07/31/2018 14:00:59Clicked on Report RUN
+07/31/2018 14:01:07Previous file found in folder
+07/31/2018 14:01:19Click Download
+07/31/2018 14:01:25Clicked Save Button
+07/31/2018 14:01:26Clicked Save As Menu
+07/31/2018 14:01:29: FILE has been saved
+07/31/2018 14:01:29  :Dialog Box Closed
+07/31/2018 14:01:32: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 14:01:57 : Status has been changed to Accepted
+07/31/2018 14:33:36 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 14:33:46 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 14:33:50 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 14:33:57Clicked on Report NAME
+07/31/2018 14:34:13Clicked on Report RUN
+07/31/2018 14:34:21Previous file found in folder
+07/31/2018 14:34:33Click Download
+07/31/2018 14:34:39Clicked Save Button
+07/31/2018 14:34:40Clicked Save As Menu
+07/31/2018 14:34:43: FILE has been saved
+07/31/2018 14:34:44  :Dialog Box Closed
+07/31/2018 14:34:47: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 14:35:09 : Status has been changed to Accepted
+07/31/2018 14:35:31 : Status has been changed to Accepted
+07/31/2018 14:36:06 : Status has been changed to Accepted
+07/31/2018 14:36:27 : Status has been changed to Accepted
+07/31/2018 14:36:58 : Status has been changed to Accepted
+07/31/2018 15:05:45 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 15:05:55 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 15:05:56 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 15:06:02Clicked on Report NAME
+07/31/2018 15:06:15Clicked on Report RUN
+07/31/2018 15:06:24Previous file found in folder
+07/31/2018 15:06:37Click Download
+07/31/2018 15:06:43Clicked Save Button
+07/31/2018 15:06:44Clicked Save As Menu
+07/31/2018 15:06:47: FILE has been saved
+07/31/2018 15:06:48  :Dialog Box Closed
+07/31/2018 15:06:51: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 15:07:11 : Status has been changed to Accepted
+07/31/2018 15:31:04 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 15:31:14 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 15:31:20 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 15:31:27Clicked on Report NAME
+07/31/2018 15:31:42Clicked on Report RUN
+07/31/2018 15:31:51Previous file found in folder
+07/31/2018 15:32:04Click Download
+07/31/2018 15:32:09Clicked Save Button
+07/31/2018 15:32:10Clicked Save As Menu
+07/31/2018 15:32:13: FILE has been saved
+07/31/2018 15:32:14  :Dialog Box Closed
+07/31/2018 15:32:17: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 15:32:40 : Status has been changed to Accepted
+07/31/2018 15:50:33 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 15:50:43 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 15:50:47 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 15:50:54Clicked on Report NAME
+07/31/2018 15:51:09Clicked on Report RUN
+07/31/2018 15:51:18Previous file found in folder
+07/31/2018 15:51:31Click Download
+07/31/2018 15:51:37Clicked Save Button
+07/31/2018 15:51:37Clicked Save As Menu
+07/31/2018 15:51:40: FILE has been saved
+07/31/2018 15:51:41  :Dialog Box Closed
+07/31/2018 15:51:41: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:04:06 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:04:16 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:04:20 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:04:27Clicked on Report NAME
+07/31/2018 16:04:40Clicked on Report RUN
+07/31/2018 16:04:49Previous file found in folder
+07/31/2018 16:04:54: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\~$incident_file.xlsx
+07/31/2018 16:09:43 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:09:52 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:09:56 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:10:03Clicked on Report NAME
+07/31/2018 16:10:19Clicked on Report RUN
+07/31/2018 16:10:28Previous file found in folder
+07/31/2018 16:10:42Click Download
+07/31/2018 16:10:47Clicked Save Button
+07/31/2018 16:10:48Clicked Save As Menu
+07/31/2018 16:10:51: FILE has been saved
+07/31/2018 16:10:52  :Dialog Box Closed
+07/31/2018 16:10:54: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:11:18 : Status has been changed to Accepted
+07/31/2018 16:18:44 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:18:54 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:18:56 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:19:03Clicked on Report NAME
+07/31/2018 16:19:17Clicked on Report RUN
+07/31/2018 16:19:26Previous file found in folder
+07/31/2018 16:19:40Click Download
+07/31/2018 16:19:45Clicked Save Button
+07/31/2018 16:19:46Clicked Save As Menu
+07/31/2018 16:19:49: FILE has been saved
+07/31/2018 16:19:50  :Dialog Box Closed
+07/31/2018 16:19:52: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:20:11 : Status has been changed to Accepted
+07/31/2018 16:20:35 : Status has been changed to Accepted
+07/31/2018 16:27:27 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:27:36 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:27:42 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:27:48Clicked on Report NAME
+07/31/2018 16:28:05Clicked on Report RUN
+07/31/2018 16:28:14Previous file found in folder
+07/31/2018 16:28:28Click Download
+07/31/2018 16:28:34Clicked Save Button
+07/31/2018 16:28:34Clicked Save As Menu
+07/31/2018 16:28:37: FILE has been saved
+07/31/2018 16:28:38  :Dialog Box Closed
+07/31/2018 16:28:40: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:29:02 : Status has been changed to Accepted
+07/31/2018 16:32:36 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:32:46 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:32:49 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:32:56Clicked on Report NAME
+07/31/2018 16:33:10Clicked on Report RUN
+07/31/2018 16:33:19Previous file found in folder
+07/31/2018 16:33:32Click Download
+07/31/2018 16:33:38Clicked Save Button
+07/31/2018 16:33:39Clicked Save As Menu
+07/31/2018 16:33:42: FILE has been saved
+07/31/2018 16:33:42  :Dialog Box Closed
+07/31/2018 16:33:44: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:34:06 : Status has been changed to Accepted
+07/31/2018 16:45:52 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:46:02 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:46:05 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:46:12Clicked on Report NAME
+07/31/2018 16:46:24Clicked on Report RUN
+07/31/2018 16:46:33Previous file found in folder
+07/31/2018 16:46:46Click Download
+07/31/2018 16:46:52Clicked Save Button
+07/31/2018 16:46:53Clicked Save As Menu
+07/31/2018 16:46:56: FILE has been saved
+07/31/2018 16:46:57  :Dialog Box Closed
+07/31/2018 16:46:59: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident.xlsx
+07/31/2018 16:48:10 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 16:48:19 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 16:48:24 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 16:48:30Clicked on Report NAME
+07/31/2018 16:48:45Clicked on Report RUN
+07/31/2018 16:48:54Folder is Empty
+07/31/2018 16:49:07Click Download
+07/31/2018 16:49:13Clicked Save Button
+07/31/2018 16:49:13Clicked Save As Menu
+07/31/2018 16:49:16: FILE has been saved
+07/31/2018 16:49:17  :Dialog Box Closed
+07/31/2018 16:49:19: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 16:49:45 : Status has been changed to Accepted
+07/31/2018 17:22:58 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/31/2018 17:23:08 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/31/2018 17:23:11 Logged in Sucessfully  Centrica Logo found on screen
+07/31/2018 17:23:19Clicked on Report NAME
+07/31/2018 17:23:31Clicked on Report RUN
+07/31/2018 17:23:40Previous file found in folder
+07/31/2018 17:23:54Click Download
+07/31/2018 17:24:00Clicked Save Button
+07/31/2018 17:24:00Clicked Save As Menu
+07/31/2018 17:24:03: FILE has been saved
+07/31/2018 17:24:04  :Dialog Box Closed
+07/31/2018 17:24:06: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/31/2018 17:24:32 : Status has been changed to Accepted
+07/31/2018 17:25:05 : Status has been changed to Accepted
+07/31/2018 17:25:38 : Status has been changed to Accepted
+07/31/2018 17:26:07 : Status has been changed to Accepted
+07/31/2018 17:26:43 : Status has been changed to Accepted
+07/31/2018 17:27:04 : Status has been changed to Accepted
+07/31/2018 17:27:36 : Status has been changed to Accepted
+07/31/2018 17:27:57 : Status has been changed to Accepted
+07/31/2018 17:28:32 : Status has been changed to Accepted
+07/31/2018 17:29:02 : Status has been changed to Accepted
+07/31/2018 17:29:23 : Status has been changed to Accepted
+07/31/2018 17:29:44 : Status has been changed to Accepted
+07/31/2018 17:30:16 : Status has been changed to Accepted
+07/31/2018 17:30:49 : Status has been changed to Accepted
+07/31/2018 17:31:22 : Status has been changed to Accepted
+07/31/2018 17:31:56 : Status has been changed to Accepted
+07/31/2018 17:32:27 : Status has been changed to Accepted
+07/31/2018 17:33:03 : Status has been changed to Accepted
+07/31/2018 17:33:37 : Status has been changed to Accepted
+07/31/2018 17:34:09 : Status has been changed to Accepted
+07/31/2018 17:34:40 : Status has been changed to Accepted
+07/31/2018 17:35:01 : Status has been changed to Accepted
+07/31/2018 17:35:35 : Status has been changed to Accepted
+07/31/2018 17:36:10 : Status has been changed to Accepted
+07/31/2018 17:36:44 : Status has been changed to Accepted
+07/31/2018 17:36:46 : Session LOGOUT 

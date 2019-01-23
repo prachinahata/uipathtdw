@@ -1,0 +1,4 @@
+08/03/2018 18:19:06 : SNOW page Loaded for Centrica and Login Button  found on screen
+08/03/2018 18:19:16 :Primary Login Credential Initalised UserID is =uk\nemanip
+08/03/2018 18:19:20 Logged in Sucessfully  Centrica Logo found on screen
+08/03/2018 18:19:29Clicked on Report NAME

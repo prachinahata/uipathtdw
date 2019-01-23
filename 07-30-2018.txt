@@ -1,0 +1,55 @@
+07/30/2018 14:52:02 : Service Now page Loaded 
+07/30/2018 14:52:11 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 14:52:25 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 14:53:57 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 14:54:17 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 15:22:08 : Service Now page Loaded 
+07/30/2018 15:31:13 : Service Now page Loaded 
+07/30/2018 15:31:22 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:32:38 : Service Now page Loaded 
+07/30/2018 15:32:47 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:32:53 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 15:33:51 : Service Now page Loaded 
+07/30/2018 15:34:00 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:48:57 : Service Now page Loaded 
+07/30/2018 15:49:07 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:50:03snow site is slow
+07/30/2018 15:53:41 : Service Now page Loaded 
+07/30/2018 15:53:51 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:54:47snow site is slow
+07/30/2018 15:56:50 : Service Now page Loaded 
+07/30/2018 15:56:59 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 15:57:57snow site is slow
+07/30/2018 15:59:54 : Service Now page Loaded 
+07/30/2018 16:00:04 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 16:00:16 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 16:03:16 : Service Now page Loaded 
+07/30/2018 16:03:26 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 16:03:36 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 16:21:29 : Service Now page Loaded 
+07/30/2018 16:21:38 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 16:33:40 : Service Now page Loaded for Centrica SNOW
+07/30/2018 16:33:49 :Primary Login Credential Initalised UseId =uk\nemanip
+07/30/2018 16:33:51 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 17:54:31 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/30/2018 17:54:40 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/30/2018 17:54:45 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 17:57:56 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/30/2018 17:58:06 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/30/2018 17:58:08 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 17:58:14Clicked on Report NAME
+07/30/2018 17:58:27Clicked on Report RUN
+07/30/2018 17:58:35Previous file found in folder
+07/30/2018 17:58:47Click Download
+07/30/2018 17:58:53Clicked Save Button
+07/30/2018 17:58:53Clicked Save As Menu
+07/30/2018 17:58:56: FILE has been saved
+07/30/2018 17:58:57  :Dialog Box Closed
+07/30/2018 17:59:00: Name of file isD:\divyanxi_backup_09_sep_207\Centrica_SNOW\Download\incident_file.xlsx
+07/30/2018 17:59:25 : Status has been changed to Accepted
+07/30/2018 18:10:00 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/30/2018 18:10:10 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/30/2018 18:10:10 Logged in Sucessfully  Centrica Logo found on screen
+07/30/2018 18:11:02 : SNOW page Loaded for Centrica and Login Button  found on screen
+07/30/2018 18:11:11 :Primary Login Credential Initalised UserID is =uk\nemanip
+07/30/2018 18:59:44 : SNOW page Loaded for Centrica and Login Button  found on screen
